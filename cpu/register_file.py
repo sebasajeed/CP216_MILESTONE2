@@ -1,14 +1,3 @@
-"""
-Register File Module
-
-This module implements the ARM processor register file including
-general-purpose registers, special registers (PC, SP, LR), and
-processor status registers (CPSR/SPSR).
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 from enum import Enum
 from typing import Dict, List, Optional, Any
 import struct

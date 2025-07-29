@@ -1,15 +1,3 @@
-"""
-ARM Instructions Module
-
-This module implements ARM instruction encoding/decoding and execution
-for the ARM instruction set architecture. It provides support for
-the complete ARM instruction set including data processing, memory
-operations, branching, and system instructions.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 from enum import Enum
 from typing import Dict, List, Optional, Tuple, Any, Union
 import struct

@@ -1,14 +1,3 @@
-"""
-Cache Block Module
-
-This module implements the cache block (cache line) data structure used in the
-ARM CPU simulator's cache system. Each cache block contains data, metadata,
-and state information necessary for cache operations.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 from enum import Enum
 from typing import Optional, List, Any
 import time

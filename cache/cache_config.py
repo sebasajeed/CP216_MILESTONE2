@@ -1,14 +1,3 @@
-"""
-Cache Configuration Module
-
-This module defines the configuration parameters for different cache levels
-in the ARM CPU simulator. It includes settings for cache size, associativity,
-block size, and replacement policies.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 from enum import Enum
 from dataclasses import dataclass
 from typing import Dict, Any

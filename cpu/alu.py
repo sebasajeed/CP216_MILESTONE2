@@ -1,14 +1,3 @@
-"""
-Arithmetic Logic Unit (ALU) Module
-
-This module implements the ARM processor ALU with support for arithmetic,
-logical, and shift operations. It handles flag updates and provides
-comprehensive operation support for the ARM instruction set.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 from enum import Enum
 from typing import Tuple, Optional, Any, Dict
 import struct

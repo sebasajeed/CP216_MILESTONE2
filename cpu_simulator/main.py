@@ -1,14 +1,3 @@
-"""
-ARM CPU Simulator Main Interface
-
-This module provides the main interface for the ARM CPU simulator,
-integrating all components including CPU, memory, cache, and instruction
-set architecture. It serves as the entry point for running simulations.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 import sys
 import os
 import time

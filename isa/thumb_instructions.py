@@ -1,13 +1,3 @@
-"""
-Thumb Instructions for ARM CPU Simulator
-
-This module implements the Thumb instruction set - a compressed 16-bit
-instruction format used in ARM processors for improved code density.
-
-Author: CPU Simulator Project  
-Date: 2025
-"""
-
 from typing import Dict, Any, Optional
 from enum import Enum
 

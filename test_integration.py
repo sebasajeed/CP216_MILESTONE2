@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-"""
-Integration test for the complete CPU simulator system
-"""
 
 import sys
 sys.path.append('.')

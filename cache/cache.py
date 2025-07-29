@@ -1,15 +1,3 @@
-"""
-Cache Implementation Module
-
-This module implements the main cache system for the ARM CPU simulator.
-It supports various cache configurations including direct-mapped,
-set-associative, and fully-associative caches with different replacement
-policies and write strategies.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 import math
 import time
 from typing import Dict, List, Optional, Tuple, Any

@@ -1,14 +1,3 @@
-"""
-Memory System Module
-
-This module implements the main memory system for the ARM CPU simulator.
-It provides a realistic memory interface with configurable latency,
-bandwidth, and capacity constraints.
-
-Author: CPU Simulator Project  
-Date: 2025
-"""
-
 import time
 import threading
 from typing import Dict, List, Optional, Any, Tuple

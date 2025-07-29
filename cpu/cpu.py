@@ -1,14 +1,3 @@
-"""
-ARM CPU Core Implementation
-
-This module implements the main ARM CPU core, integrating the ALU,
-register file, and providing the fetch-decode-execute cycle with
-pipeline simulation and instruction execution.
-
-Author: CPU Simulator Project  
-Date: 2025
-"""
-
 import time
 import struct
 from typing import Dict, List, Optional, Any, Tuple

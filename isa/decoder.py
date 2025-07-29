@@ -1,13 +1,3 @@
-"""
-ARM Instruction Decoder
-
-This module provides instruction decoding utilities for the ARM CPU simulator.
-It handles the parsing and interpretation of ARM instruction bit patterns.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 from typing import Dict, Any, Optional
 from .arm_instructions import ARMInstructionDecoder
 

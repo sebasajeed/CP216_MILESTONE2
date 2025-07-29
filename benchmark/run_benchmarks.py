@@ -1,14 +1,3 @@
-"""
-ARM CPU Simulator Benchmarking Suite
-
-This module provides comprehensive benchmarking capabilities for the ARM CPU
-simulator, including various test programs, performance analysis, and
-comparison of different configurations.
-
-Author: CPU Simulator Project
-Date: 2025
-"""
-
 import time
 import csv
 import os

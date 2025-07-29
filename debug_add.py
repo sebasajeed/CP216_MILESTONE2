@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-"""
-Debug ADD instruction issue
-"""
 
 import sys
 sys.path.append('.')
